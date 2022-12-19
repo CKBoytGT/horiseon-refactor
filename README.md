@@ -46,6 +46,7 @@ THEN I find a concise, descriptive title
 
 ![Screenshot of Horiseon website.](/assets/images/horiseon-screenshot.jpg)
 
-## Link
+## Links
 
-Pending.
+* [Deployed Website](https://ckboytgt.github.io/horiseon-refactor/)
+* [GitHub Repo](https://github.com/CKBoytGT/horiseon-refactor)
