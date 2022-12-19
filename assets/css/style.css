@@ -62,6 +62,7 @@ header nav ul li {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    display: block; /* Forces new screenreader-friendly span element with aria label to display correctly. */
 }
 
 /* Main - Services */
