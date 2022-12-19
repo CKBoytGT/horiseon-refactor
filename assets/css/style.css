@@ -17,18 +17,6 @@ p {
     font-size: 16px;
 }
 
-/* Float content */
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Header */
 
 header {
@@ -97,6 +85,16 @@ header nav ul li {
     max-height: 200px;
 }
 
+.services article img.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.services article img.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .services article h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -120,9 +118,10 @@ header nav ul li {
     color: #ffffff;
 }
 
-.benefits article h3 {
+.benefits article h2 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 1.17em;
 }
 
 .benefits article img {
